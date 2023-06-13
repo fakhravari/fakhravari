@@ -8,6 +8,8 @@ Im Software Developer From **<a target="_blank" href='https://www.vatanzarin.com
 🛠 Languages and Tools :
 <p align="left" dir="auto"> 
   
-<img src="https://img.icons8.com/?size=1x&id=7I3BjCqe9rjG&format=png" alt="xd" width="68" height="70" data-canonical-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="max-width: 100%;"> 
+![download](https://github.com/fakhravari/fakhravari/assets/4311975/ba07f3d6-22ef-481c-bba4-4dd4f8fec012)
+
+![download](https://github.com/fakhravari/fakhravari/assets/4311975/fc9e3955-8c80-475b-9974-f1bafff220bc)
 
 </p>
