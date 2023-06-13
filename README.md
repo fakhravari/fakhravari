@@ -4,7 +4,7 @@ Im Software Developer From **<a target="_blank" href='https://www.vatanzarin.com
 <br /><br />
 👨‍💻 About Me : <br />
 🔭  I’m currently working on something cool <br />
-🌱  I’m currently learning Flutter, Laravel <br />
-💬 Ask me about anything related to Android & Web Developer <br />
-📫  How to reach me: **<a target="_blank" href='https://fakhravari.ir/'>Fakhravari.Ir</a>**
 
+Flutter and .NET Core Developer
+
+📫  How to reach me: **<a target="_blank" href='https://fakhravari.ir/'>Fakhravari.Ir</a>**
