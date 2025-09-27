@@ -17,3 +17,4 @@ Im Software Developer From **<a target="_blank" href='https://www.vatanzarin.com
 <img src="https://github.com/fakhravari/fakhravari/assets/4311975/48308eb3-8b53-40bf-8a2f-76b3e05a94db" height="80">
 &nbsp;&nbsp;&nbsp;
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhravari&show_icons=true&theme=radical)
