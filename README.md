@@ -25,6 +25,6 @@
 - 🖥 **Website:** [fakhravari.ir](https://fakhravari.ir)
 - 📝 **Weblog:** [fakhravary.blogfa.com](http://fakhravary.blogfa.com)
 - 📄 **Resume:** [Resumes (PDF)](https://fakhravari.ir/resumes.pdf)
-- 📧 **Email:** fakhravary@hotmail.com
+- 📧 **Email:** fakhravary@gmail.com
 
 ---
