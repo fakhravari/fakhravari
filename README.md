@@ -16,7 +16,7 @@ Im Software Developer From **<a target="_blank" href='https://www.vatanzarin.com
 &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/fakhravari/fakhravari/assets/4311975/48308eb3-8b53-40bf-8a2f-76b3e05a94db" height="80">
 <br />
-<br /> WebSite: fakhravari.ir  
-<br /> WebLog:  fakhravary.blogfa.com  
-<br /> Resume:  fakhravari.ir/resumes.pdf
+<br /> WebSite:   **<a target="_blank" href='https://fakhravari.ir'>Fakhravari.ir</a>**
+<br /> WebLog:    **<a target="_blank" href='http://fakhravary.blogfa.com'>Fakhravary.blogfa.com</a>**
+<br /> Resume:  **<a target="_blank" href='https://fakhravari.ir/resumes.pdf'>Resumes</a>**
 
